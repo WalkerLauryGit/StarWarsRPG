@@ -3,6 +3,9 @@
   font-family: starwars;
 }
 
+html{
+  scroll-behavior: smooth;
+}
 
 body{
   padding: 0;
